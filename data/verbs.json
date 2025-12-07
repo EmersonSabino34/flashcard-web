@@ -1,0 +1,482 @@
+[
+  {
+    "infinitive": "falar",
+    "translation": "to speak",
+    "regular": true,
+    "group": "ar",
+    "conjugations": {
+      "present": {
+        "eu": "falo",
+        "tu": "falas",
+        "voce": "fala",
+        "nos": "falamos",
+        "vos": "falais",
+        "eles": "falam"
+      },
+      "preterite": {
+        "eu": "falei",
+        "tu": "falaste",
+        "voce": "falou",
+        "nos": "falamos",
+        "vos": "falastes",
+        "eles": "falaram"
+      },
+      "imperfect": {
+        "eu": "falava",
+        "tu": "falavas",
+        "voce": "falava",
+        "nos": "falávamos",
+        "vos": "faláveis",
+        "eles": "falavam"
+      },
+      "future": {
+        "eu": "falarei",
+        "tu": "falarás",
+        "voce": "falará",
+        "nos": "falaremos",
+        "vos": "falareis",
+        "eles": "falarão"
+      }
+    }
+  },
+  {
+    "infinitive": "comer",
+    "translation": "to eat",
+    "regular": true,
+    "group": "er",
+    "conjugations": {
+      "present": {
+        "eu": "como",
+        "tu": "comes",
+        "voce": "come",
+        "nos": "comemos",
+        "vos": "comeis",
+        "eles": "comem"
+      },
+      "preterite": {
+        "eu": "comi",
+        "tu": "comeste",
+        "voce": "comeu",
+        "nos": "comemos",
+        "vos": "comestes",
+        "eles": "comeram"
+      },
+      "imperfect": {
+        "eu": "comia",
+        "tu": "comias",
+        "voce": "comia",
+        "nos": "comíamos",
+        "vos": "comíeis",
+        "eles": "comiam"
+      },
+      "future": {
+        "eu": "comerei",
+        "tu": "comerás",
+        "voce": "comerá",
+        "nos": "comeremos",
+        "vos": "comereis",
+        "eles": "comerão"
+      }
+    }
+  },
+  {
+    "infinitive": "abrir",
+    "translation": "to open",
+    "regular": true,
+    "group": "ir",
+    "conjugations": {
+      "present": {
+        "eu": "abro",
+        "tu": "abres",
+        "voce": "abre",
+        "nos": "abrimos",
+        "vos": "abris",
+        "eles": "abrem"
+      },
+      "preterite": {
+        "eu": "abri",
+        "tu": "abriste",
+        "voce": "abriu",
+        "nos": "abrimos",
+        "vos": "abristes",
+        "eles": "abriram"
+      },
+      "imperfect": {
+        "eu": "abria",
+        "tu": "abrias",
+        "voce": "abria",
+        "nos": "abríamos",
+        "vos": "abríeis",
+        "eles": "abriam"
+      },
+      "future": {
+        "eu": "abrirei",
+        "tu": "abrirás",
+        "voce": "abrirá",
+        "nos": "abriremos",
+        "vos": "abrireis",
+        "eles": "abrirão"
+      }
+    }
+  },
+  {
+    "infinitive": "ser",
+    "translation": "to be (essential)",
+    "regular": false,
+    "group": "er",
+    "conjugations": {
+      "present": {
+        "eu": "sou",
+        "tu": "és",
+        "voce": "é",
+        "nos": "somos",
+        "vos": "sois",
+        "eles": "são"
+      },
+      "preterite": {
+        "eu": "fui",
+        "tu": "foste",
+        "voce": "foi",
+        "nos": "fomos",
+        "vos": "fostes",
+        "eles": "foram"
+      },
+      "imperfect": {
+        "eu": "era",
+        "tu": "eras",
+        "voce": "era",
+        "nos": "éramos",
+        "vos": "éreis",
+        "eles": "eram"
+      },
+      "future": {
+        "eu": "serei",
+        "tu": "serás",
+        "voce": "será",
+        "nos": "seremos",
+        "vos": "sereis",
+        "eles": "serão"
+      }
+    }
+  },
+  {
+    "infinitive": "estar",
+    "translation": "to be (temporary)",
+    "regular": false,
+    "group": "ar",
+    "conjugations": {
+      "present": {
+        "eu": "estou",
+        "tu": "estás",
+        "voce": "está",
+        "nos": "estamos",
+        "vos": "estais",
+        "eles": "estão"
+      },
+      "preterite": {
+        "eu": "estive",
+        "tu": "estiveste",
+        "voce": "esteve",
+        "nos": "estivemos",
+        "vos": "estivestes",
+        "eles": "estiveram"
+      },
+      "imperfect": {
+        "eu": "estava",
+        "tu": "estavas",
+        "voce": "estava",
+        "nos": "estávamos",
+        "vos": "estáveis",
+        "eles": "estavam"
+      },
+      "future": {
+        "eu": "estarei",
+        "tu": "estarás",
+        "voce": "estará",
+        "nos": "estaremos",
+        "vos": "estareis",
+        "eles": "estarão"
+      }
+    }
+  },
+  {
+    "infinitive": "ter",
+    "translation": "to have",
+    "regular": false,
+    "group": "er",
+    "conjugations": {
+      "present": {
+        "eu": "tenho",
+        "tu": "tens",
+        "voce": "tem",
+        "nos": "temos",
+        "vos": "tendes",
+        "eles": "têm"
+      },
+      "preterite": {
+        "eu": "tive",
+        "tu": "tiveste",
+        "voce": "teve",
+        "nos": "tivemos",
+        "vos": "tivestes",
+        "eles": "tiveram"
+      },
+      "imperfect": {
+        "eu": "tinha",
+        "tu": "tinhas",
+        "voce": "tinha",
+        "nos": "tínhamos",
+        "vos": "tínheis",
+        "eles": "tinham"
+      },
+      "future": {
+        "eu": "terei",
+        "tu": "terás",
+        "voce": "terá",
+        "nos": "teremos",
+        "vos": "tereis",
+        "eles": "terão"
+      }
+    }
+  },
+  {
+    "infinitive": "ir",
+    "translation": "to go",
+    "regular": false,
+    "group": "ir",
+    "conjugations": {
+      "present": {
+        "eu": "vou",
+        "tu": "vais",
+        "voce": "vai",
+        "nos": "vamos",
+        "vos": "ides",
+        "eles": "vão"
+      },
+      "preterite": {
+        "eu": "fui",
+        "tu": "foste",
+        "voce": "foi",
+        "nos": "fomos",
+        "vos": "fostes",
+        "eles": "foram"
+      },
+      "imperfect": {
+        "eu": "ia",
+        "tu": "ias",
+        "voce": "ia",
+        "nos": "íamos",
+        "vos": "íeis",
+        "eles": "iam"
+      },
+      "future": {
+        "eu": "irei",
+        "tu": "irás",
+        "voce": "irá",
+        "nos": "iremos",
+        "vos": "ireis",
+        "eles": "irão"
+      }
+    }
+  },
+  {
+    "infinitive": "fazer",
+    "translation": "to do / to make",
+    "regular": false,
+    "group": "er",
+    "conjugations": {
+      "present": {
+        "eu": "faço",
+        "tu": "fazes",
+        "voce": "faz",
+        "nos": "fazemos",
+        "vos": "fazeis",
+        "eles": "fazem"
+      },
+      "preterite": {
+        "eu": "fiz",
+        "tu": "fizeste",
+        "voce": "fez",
+        "nos": "fizemos",
+        "vos": "fizestes",
+        "eles": "fizeram"
+      },
+      "imperfect": {
+        "eu": "fazia",
+        "tu": "fazias",
+        "voce": "fazia",
+        "nos": "fazíamos",
+        "vos": "fazíeis",
+        "eles": "faziam"
+      },
+      "future": {
+        "eu": "farei",
+        "tu": "farás",
+        "voce": "fará",
+        "nos": "faremos",
+        "vos": "fareis",
+        "eles": "farão"
+      }
+    }
+  },
+  {
+    "infinitive": "poder",
+    "translation": "to be able to",
+    "regular": false,
+    "group": "er",
+    "conjugations": {
+      "present": {
+        "eu": "posso",
+        "tu": "podes",
+        "voce": "pode",
+        "nos": "podemos",
+        "vos": "podeis",
+        "eles": "podem"
+      },
+      "preterite": {
+        "eu": "pude",
+        "tu": "pudeste",
+        "voce": "pôde",
+        "nos": "pudemos",
+        "vos": "pudestes",
+        "eles": "puderam"
+      },
+      "imperfect": {
+        "eu": "podia",
+        "tu": "podias",
+        "voce": "podia",
+        "nos": "podíamos",
+        "vos": "podíeis",
+        "eles": "podiam"
+      },
+      "future": {
+        "eu": "poderei",
+        "tu": "poderás",
+        "voce": "poderá",
+        "nos": "poderemos",
+        "vos": "podereis",
+        "eles": "poderão"
+      }
+    }
+  },
+  {
+    "infinitive": "querer",
+    "translation": "to want",
+    "regular": false,
+    "group": "er",
+    "conjugations": {
+      "present": {
+        "eu": "quero",
+        "tu": "queres",
+        "voce": "quer",
+        "nos": "queremos",
+        "vos": "quereis",
+        "eles": "querem"
+      },
+      "preterite": {
+        "eu": "quis",
+        "tu": "quiseste",
+        "voce": "quis",
+        "nos": "quisemos",
+        "vos": "quisestes",
+        "eles": "quiseram"
+      },
+      "imperfect": {
+        "eu": "queria",
+        "tu": "querias",
+        "voce": "queria",
+        "nos": "queríamos",
+        "vos": "queríeis",
+        "eles": "queriam"
+      },
+      "future": {
+        "eu": "quererei",
+        "tu": "quererás",
+        "voce": "quererá",
+        "nos": "quereremos",
+        "vos": "querereis",
+        "eles": "quererão"
+      }
+    }
+  },
+  {
+    "infinitive": "dizer",
+    "translation": "to say",
+    "regular": false,
+    "group": "er",
+    "conjugations": {
+      "present": {
+        "eu": "digo",
+        "tu": "dizes",
+        "voce": "diz",
+        "nos": "dizemos",
+        "vos": "dizeis",
+        "eles": "dizem"
+      },
+      "preterite": {
+        "eu": "disse",
+        "tu": "disseste",
+        "voce": "disse",
+        "nos": "dissemos",
+        "vos": "dissestes",
+        "eles": "disseram"
+      },
+      "imperfect": {
+        "eu": "dizia",
+        "tu": "dizias",
+        "voce": "dizia",
+        "nos": "dizíamos",
+        "vos": "dizíeis",
+        "eles": "diziam"
+      },
+      "future": {
+        "eu": "direi",
+        "tu": "dirás",
+        "voce": "dirá",
+        "nos": "diremos",
+        "vos": "direis",
+        "eles": "dirão"
+      }
+    }
+  },
+  {
+    "infinitive": "ver",
+    "translation": "to see",
+    "regular": false,
+    "group": "er",
+    "conjugations": {
+      "present": {
+        "eu": "vejo",
+        "tu": "vês",
+        "voce": "vê",
+        "nos": "vemos",
+        "vos": "vedes",
+        "eles": "veem"
+      },
+      "preterite": {
+        "eu": "vi",
+        "tu": "viste",
+        "voce": "viu",
+        "nos": "vimos",
+        "vos": "vistes",
+        "eles": "viram"
+      },
+      "imperfect": {
+        "eu": "via",
+        "tu": "vias",
+        "voce": "via",
+        "nos": "víamos",
+        "vos": "víeis",
+        "eles": "viam"
+      },
+      "future": {
+        "eu": "verei",
+        "tu": "verás",
+        "voce": "verá",
+        "nos": "veremos",
+        "vos": "vereis",
+        "eles": "verão"
+      }
+    }
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "directions-1",
+    "portuguese": "à direita",
+    "english": "to the right",
+    "example": "Vire à direita no semáforo.",
+    "exampleTranslation": "Turn right at the traffic light."
+  },
+  {
+    "id": "directions-2",
+    "portuguese": "à esquerda",
+    "english": "to the left",
+    "example": "O museu fica à esquerda da praça.",
+    "exampleTranslation": "The museum is to the left of the square."
+  },
+  {
+    "id": "directions-3",
+    "portuguese": "em frente",
+    "english": "straight ahead",
+    "example": "Siga em frente por duas quadras.",
+    "exampleTranslation": "Go straight ahead for two blocks."
+  },
+  {
+    "id": "directions-4",
+    "portuguese": "o cruzamento",
+    "english": "intersection",
+    "example": "No próximo cruzamento vire à direita.",
+    "exampleTranslation": "At the next intersection turn right."
+  },
+  {
+    "id": "directions-5",
+    "portuguese": "a esquina",
+    "english": "corner",
+    "example": "O mercado fica na esquina.",
+    "exampleTranslation": "The market is on the corner."
+  },
+  {
+    "id": "directions-6",
+    "portuguese": "o retorno",
+    "english": "u-turn",
+    "example": "Faça o retorno depois da ponte.",
+    "exampleTranslation": "Make a U-turn after the bridge."
+  },
+  {
+    "id": "directions-7",
+    "portuguese": "a rotatória",
+    "english": "roundabout",
+    "example": "Na rotatória pegue a segunda saída.",
+    "exampleTranslation": "At the roundabout take the second exit."
+  },
+  {
+    "id": "directions-8",
+    "portuguese": "a placa",
+    "english": "sign",
+    "example": "Siga as placas para o centro.",
+    "exampleTranslation": "Follow the signs to downtown."
+  },
+  {
+    "id": "directions-9",
+    "portuguese": "o farol",
+    "english": "traffic light",
+    "example": "O farol está quebrado.",
+    "exampleTranslation": "The traffic light is broken."
+  },
+  {
+    "id": "directions-10",
+    "portuguese": "a rua sem saída",
+    "english": "dead-end street",
+    "example": "Não entre, é rua sem saída.",
+    "exampleTranslation": "Don't go in, it's a dead-end street."
+  },
+  {
+    "id": "directions-11",
+    "portuguese": "a avenida",
+    "english": "avenue",
+    "example": "O hotel fica na avenida principal.",
+    "exampleTranslation": "The hotel is on the main avenue."
+  },
+  {
+    "id": "directions-12",
+    "portuguese": "o quarteirão",
+    "english": "city block",
+    "example": "Fica a três quarteirões daqui.",
+    "exampleTranslation": "It's three blocks from here."
+  },
+  {
+    "id": "directions-13",
+    "portuguese": "o mapa",
+    "english": "map",
+    "example": "Pode me mostrar no mapa?",
+    "exampleTranslation": "Can you show me on the map?"
+  },
+  {
+    "id": "directions-14",
+    "portuguese": "perdido",
+    "english": "lost",
+    "example": "Estou um pouco perdido.",
+    "exampleTranslation": "I am a bit lost."
+  },
+  {
+    "id": "directions-15",
+    "portuguese": "o ponto de ônibus",
+    "english": "bus stop",
+    "example": "O ponto de ônibus fica logo ali.",
+    "exampleTranslation": "The bus stop is right there."
+  },
+  {
+    "id": "directions-16",
+    "portuguese": "depois de",
+    "english": "after",
+    "example": "O cinema fica depois do banco.",
+    "exampleTranslation": "The cinema is after the bank."
+  },
+  {
+    "id": "directions-17",
+    "portuguese": "antes de",
+    "english": "before",
+    "example": "O mercado fica antes da escola.",
+    "exampleTranslation": "The market is before the school."
+  },
+  {
+    "id": "directions-18",
+    "portuguese": "atravessar",
+    "english": "to cross",
+    "example": "Atravesse a rua com cuidado.",
+    "exampleTranslation": "Cross the street carefully."
+  },
+  {
+    "id": "directions-19",
+    "portuguese": "perto de",
+    "english": "near",
+    "example": "A sorveteria fica perto do parque.",
+    "exampleTranslation": "The ice cream shop is near the park."
+  },
+  {
+    "id": "directions-20",
+    "portuguese": "longe de",
+    "english": "far from",
+    "example": "É longe daqui?",
+    "exampleTranslation": "Is it far from here?"
+  }
+]

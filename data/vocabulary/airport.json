@@ -1,0 +1,142 @@
+[
+  {
+    "id": "airport-1",
+    "portuguese": "o embarque",
+    "english": "boarding",
+    "example": "O embarque começa às sete.",
+    "exampleTranslation": "Boarding starts at seven."
+  },
+  {
+    "id": "airport-2",
+    "portuguese": "o desembarque",
+    "english": "arrival",
+    "example": "O desembarque é no portão 3.",
+    "exampleTranslation": "Arrival is at gate 3."
+  },
+  {
+    "id": "airport-3",
+    "portuguese": "a bagagem de mão",
+    "english": "carry-on luggage",
+    "example": "Esta mala conta como bagagem de mão?",
+    "exampleTranslation": "Does this suitcase count as carry-on luggage?"
+  },
+  {
+    "id": "airport-4",
+    "portuguese": "o despacho de bagagem",
+    "english": "checked baggage",
+    "example": "Preciso despachar duas malas.",
+    "exampleTranslation": "I need to check two suitcases."
+  },
+  {
+    "id": "airport-5",
+    "portuguese": "o portão de embarque",
+    "english": "boarding gate",
+    "example": "Qual é o portão de embarque para Lisboa?",
+    "exampleTranslation": "Which is the boarding gate for Lisbon?"
+  },
+  {
+    "id": "airport-6",
+    "portuguese": "o horário de partida",
+    "english": "departure time",
+    "example": "O horário de partida mudou.",
+    "exampleTranslation": "The departure time has changed."
+  },
+  {
+    "id": "airport-7",
+    "portuguese": "a escala",
+    "english": "layover",
+    "example": "Tenho uma escala de duas horas.",
+    "exampleTranslation": "I have a two-hour layover."
+  },
+  {
+    "id": "airport-8",
+    "portuguese": "o atraso",
+    "english": "delay",
+    "example": "O voo está com atraso de 30 minutos.",
+    "exampleTranslation": "The flight has a 30-minute delay."
+  },
+  {
+    "id": "airport-9",
+    "portuguese": "o embarque prioritário",
+    "english": "priority boarding",
+    "example": "Posso usar o embarque prioritário?",
+    "exampleTranslation": "Can I use priority boarding?"
+  },
+  {
+    "id": "airport-10",
+    "portuguese": "a alfândega",
+    "english": "customs",
+    "example": "Passei pela alfândega sem problemas.",
+    "exampleTranslation": "I went through customs with no problems."
+  },
+  {
+    "id": "airport-11",
+    "portuguese": "o controle de passaporte",
+    "english": "passport control",
+    "example": "O controle de passaporte estava vazio.",
+    "exampleTranslation": "Passport control was empty."
+  },
+  {
+    "id": "airport-12",
+    "portuguese": "o cartão de embarque",
+    "english": "boarding pass",
+    "example": "Preciso imprimir o cartão de embarque?",
+    "exampleTranslation": "Do I need to print the boarding pass?"
+  },
+  {
+    "id": "airport-13",
+    "portuguese": "a esteira de bagagem",
+    "english": "baggage carousel",
+    "example": "A bagagem sai na esteira 5.",
+    "exampleTranslation": "The baggage comes out on carousel 5."
+  },
+  {
+    "id": "airport-14",
+    "portuguese": "a companhia aérea",
+    "english": "airline",
+    "example": "Qual companhia aérea você prefere?",
+    "exampleTranslation": "Which airline do you prefer?"
+  },
+  {
+    "id": "airport-15",
+    "portuguese": "o assento no corredor",
+    "english": "aisle seat",
+    "example": "Prefiro um assento no corredor.",
+    "exampleTranslation": "I prefer an aisle seat."
+  },
+  {
+    "id": "airport-16",
+    "portuguese": "o assento na janela",
+    "english": "window seat",
+    "example": "Tem assento na janela disponível?",
+    "exampleTranslation": "Is there a window seat available?"
+  },
+  {
+    "id": "airport-17",
+    "portuguese": "o cartão de vacina",
+    "english": "vaccination card",
+    "example": "Preciso apresentar o cartão de vacina?",
+    "exampleTranslation": "Do I need to show the vaccination card?"
+  },
+  {
+    "id": "airport-18",
+    "portuguese": "a sala VIP",
+    "english": "lounge",
+    "example": "A sala VIP oferece refeições?",
+    "exampleTranslation": "Does the lounge offer meals?"
+  },
+  {
+    "id": "airport-19",
+    "portuguese": "o embarque imediato",
+    "english": "final call",
+    "example": "Atenção, embarque imediato para o voo 321.",
+    "exampleTranslation": "Attention, final call for flight 321."
+  },
+  {
+    "id": "airport-20",
+    "portuguese": "o balcão de informações",
+    "english": "information desk",
+    "example": "Pergunte no balcão de informações.",
+    "exampleTranslation": "Ask at the information desk."
+  }
+]

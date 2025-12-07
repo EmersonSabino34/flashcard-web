@@ -1,0 +1,142 @@
+[
+  {
+    "id": "greetings-1",
+    "portuguese": "oi",
+    "english": "hi",
+    "example": "Oi, tudo bem?",
+    "exampleTranslation": "Hi, how are you?"
+  },
+  {
+    "id": "greetings-2",
+    "portuguese": "olá",
+    "english": "hello",
+    "example": "Olá, prazer em conhecer você.",
+    "exampleTranslation": "Hello, nice to meet you."
+  },
+  {
+    "id": "greetings-3",
+    "portuguese": "bom dia",
+    "english": "good morning",
+    "example": "Bom dia, dormiu bem?",
+    "exampleTranslation": "Good morning, did you sleep well?"
+  },
+  {
+    "id": "greetings-4",
+    "portuguese": "boa tarde",
+    "english": "good afternoon",
+    "example": "Boa tarde, como posso ajudar?",
+    "exampleTranslation": "Good afternoon, how can I help?"
+  },
+  {
+    "id": "greetings-5",
+    "portuguese": "boa noite",
+    "english": "good evening",
+    "example": "Boa noite, bem-vindo à aula.",
+    "exampleTranslation": "Good evening, welcome to class."
+  },
+  {
+    "id": "greetings-6",
+    "portuguese": "até logo",
+    "english": "see you later",
+    "example": "Até logo, até amanhã!",
+    "exampleTranslation": "See you later, see you tomorrow!"
+  },
+  {
+    "id": "greetings-7",
+    "portuguese": "tchau",
+    "english": "bye",
+    "example": "Tchau, tenha um bom dia!",
+    "exampleTranslation": "Bye, have a good day!"
+  },
+  {
+    "id": "greetings-8",
+    "portuguese": "por favor",
+    "english": "please",
+    "example": "Um café, por favor.",
+    "exampleTranslation": "A coffee, please."
+  },
+  {
+    "id": "greetings-9",
+    "portuguese": "obrigado",
+    "english": "thank you (male speaker)",
+    "example": "Obrigado pela ajuda!",
+    "exampleTranslation": "Thank you for the help!"
+  },
+  {
+    "id": "greetings-10",
+    "portuguese": "obrigada",
+    "english": "thank you (female speaker)",
+    "example": "Obrigada por vir.",
+    "exampleTranslation": "Thank you for coming."
+  },
+  {
+    "id": "greetings-11",
+    "portuguese": "com licença",
+    "english": "excuse me",
+    "example": "Com licença, posso passar?",
+    "exampleTranslation": "Excuse me, may I pass?"
+  },
+  {
+    "id": "greetings-12",
+    "portuguese": "desculpa",
+    "english": "sorry (informal)",
+    "example": "Desculpa pelo atraso.",
+    "exampleTranslation": "Sorry for being late."
+  },
+  {
+    "id": "greetings-13",
+    "portuguese": "sinto muito",
+    "english": "I'm sorry",
+    "example": "Sinto muito pela confusão.",
+    "exampleTranslation": "I'm sorry for the confusion."
+  },
+  {
+    "id": "greetings-14",
+    "portuguese": "bem-vindo",
+    "english": "welcome (male)",
+    "example": "Bem-vindo à nossa escola.",
+    "exampleTranslation": "Welcome to our school."
+  },
+  {
+    "id": "greetings-15",
+    "portuguese": "bem-vinda",
+    "english": "welcome (female)",
+    "example": "Bem-vinda ao Brasil!",
+    "exampleTranslation": "Welcome to Brazil!"
+  },
+  {
+    "id": "greetings-16",
+    "portuguese": "de nada",
+    "english": "you're welcome",
+    "example": "De nada, foi um prazer.",
+    "exampleTranslation": "You're welcome, it was a pleasure."
+  },
+  {
+    "id": "greetings-17",
+    "portuguese": "com prazer",
+    "english": "with pleasure",
+    "example": "Eu ajudarei com prazer.",
+    "exampleTranslation": "I will help with pleasure."
+  },
+  {
+    "id": "greetings-18",
+    "portuguese": "como vai?",
+    "english": "how are you?",
+    "example": "Oi Ana, como vai?",
+    "exampleTranslation": "Hi Ana, how are you?"
+  },
+  {
+    "id": "greetings-19",
+    "portuguese": "tudo bem",
+    "english": "all good",
+    "example": "Tudo bem, e você?",
+    "exampleTranslation": "All good, and you?"
+  },
+  {
+    "id": "greetings-20",
+    "portuguese": "prazer em conhecer",
+    "english": "nice to meet you",
+    "example": "Prazer em conhecer sua família.",
+    "exampleTranslation": "It's nice to meet your family."
+  }
+]

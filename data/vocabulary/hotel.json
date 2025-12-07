@@ -1,0 +1,142 @@
+[
+  {
+    "id": "hotel-1",
+    "portuguese": "o check-in",
+    "english": "check-in",
+    "example": "O check-in começa às 14h.",
+    "exampleTranslation": "Check-in starts at 2 p.m."
+  },
+  {
+    "id": "hotel-2",
+    "portuguese": "o check-out",
+    "english": "check-out",
+    "example": "O check-out é até o meio-dia.",
+    "exampleTranslation": "Check-out is until noon."
+  },
+  {
+    "id": "hotel-3",
+    "portuguese": "a diária",
+    "english": "daily rate",
+    "example": "Quanto custa a diária?",
+    "exampleTranslation": "How much is the daily rate?"
+  },
+  {
+    "id": "hotel-4",
+    "portuguese": "a reserva",
+    "english": "reservation",
+    "example": "Tenho uma reserva em nome de Pedro.",
+    "exampleTranslation": "I have a reservation under Pedro's name."
+  },
+  {
+    "id": "hotel-5",
+    "portuguese": "o quarto duplo",
+    "english": "double room",
+    "example": "Gostaria de um quarto duplo com vista.",
+    "exampleTranslation": "I would like a double room with a view."
+  },
+  {
+    "id": "hotel-6",
+    "portuguese": "a suíte",
+    "english": "suite",
+    "example": "A suíte possui banheira?",
+    "exampleTranslation": "Does the suite have a bathtub?"
+  },
+  {
+    "id": "hotel-7",
+    "portuguese": "a recepção",
+    "english": "reception",
+    "example": "A recepção funciona 24 horas.",
+    "exampleTranslation": "The reception operates 24 hours."
+  },
+  {
+    "id": "hotel-8",
+    "portuguese": "o serviço de quarto",
+    "english": "room service",
+    "example": "O serviço de quarto funciona até meia-noite.",
+    "exampleTranslation": "Room service works until midnight."
+  },
+  {
+    "id": "hotel-9",
+    "portuguese": "a chave do quarto",
+    "english": "room key",
+    "example": "Perdi a chave do quarto.",
+    "exampleTranslation": "I lost the room key."
+  },
+  {
+    "id": "hotel-10",
+    "portuguese": "o café da manhã incluso",
+    "english": "breakfast included",
+    "example": "O café da manhã está incluso na diária?",
+    "exampleTranslation": "Is breakfast included in the daily rate?"
+  },
+  {
+    "id": "hotel-11",
+    "portuguese": "o cofre",
+    "english": "safe",
+    "example": "Tem cofre no quarto?",
+    "exampleTranslation": "Is there a safe in the room?"
+  },
+  {
+    "id": "hotel-12",
+    "portuguese": "a academia",
+    "english": "gym",
+    "example": "A academia abre às seis da manhã.",
+    "exampleTranslation": "The gym opens at six in the morning."
+  },
+  {
+    "id": "hotel-13",
+    "portuguese": "a piscina",
+    "english": "swimming pool",
+    "example": "A piscina fica no terraço.",
+    "exampleTranslation": "The swimming pool is on the rooftop."
+  },
+  {
+    "id": "hotel-14",
+    "portuguese": "o frigobar",
+    "english": "minibar",
+    "example": "O frigobar é pago à parte.",
+    "exampleTranslation": "The minibar is charged separately."
+  },
+  {
+    "id": "hotel-15",
+    "portuguese": "late check-out",
+    "english": "late check-out",
+    "example": "É possível fazer late check-out?",
+    "exampleTranslation": "Is it possible to do a late check-out?"
+  },
+  {
+    "id": "hotel-16",
+    "portuguese": "o estacionamento",
+    "english": "parking",
+    "example": "O estacionamento é gratuito?",
+    "exampleTranslation": "Is parking free?"
+  },
+  {
+    "id": "hotel-17",
+    "portuguese": "o voucher",
+    "english": "voucher",
+    "example": "Preciso apresentar o voucher na chegada?",
+    "exampleTranslation": "Do I need to show the voucher upon arrival?"
+  },
+  {
+    "id": "hotel-18",
+    "portuguese": "o serviço de lavanderia",
+    "english": "laundry service",
+    "example": "O hotel oferece serviço de lavanderia?",
+    "exampleTranslation": "Does the hotel offer laundry service?"
+  },
+  {
+    "id": "hotel-19",
+    "portuguese": "o hóspede",
+    "english": "guest",
+    "example": "Quantos hóspedes estão hospedados?",
+    "exampleTranslation": "How many guests are staying?"
+  },
+  {
+    "id": "hotel-20",
+    "portuguese": "o andar",
+    "english": "floor",
+    "example": "Seu quarto fica no quinto andar.",
+    "exampleTranslation": "Your room is on the fifth floor."
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "restaurant-1",
+    "portuguese": "o garçom",
+    "english": "waiter",
+    "example": "Chamei o garçom para pedir a conta.",
+    "exampleTranslation": "I called the waiter to ask for the check."
+  },
+  {
+    "id": "restaurant-2",
+    "portuguese": "a garçonete",
+    "english": "waitress",
+    "example": "A garçonete recomendou o prato do dia.",
+    "exampleTranslation": "The waitress recommended the dish of the day."
+  },
+  {
+    "id": "restaurant-3",
+    "portuguese": "a entrada",
+    "english": "starter / appetizer",
+    "example": "Vamos pedir uma entrada para compartilhar.",
+    "exampleTranslation": "Let's order an appetizer to share."
+  },
+  {
+    "id": "restaurant-4",
+    "portuguese": "o prato principal",
+    "english": "main course",
+    "example": "Qual é o prato principal mais pedido?",
+    "exampleTranslation": "What is the most ordered main course?"
+  },
+  {
+    "id": "restaurant-5",
+    "portuguese": "a sobremesa",
+    "english": "dessert",
+    "example": "Quero ver o menu de sobremesas.",
+    "exampleTranslation": "I want to see the dessert menu."
+  },
+  {
+    "id": "restaurant-6",
+    "portuguese": "a conta",
+    "english": "bill / check",
+    "example": "A conta, por favor.",
+    "exampleTranslation": "The check, please."
+  },
+  {
+    "id": "restaurant-7",
+    "portuguese": "reservar",
+    "english": "to reserve",
+    "example": "Preciso reservar uma mesa para quatro.",
+    "exampleTranslation": "I need to reserve a table for four."
+  },
+  {
+    "id": "restaurant-8",
+    "portuguese": "a gorjeta",
+    "english": "tip",
+    "example": "Quanto é a gorjeta recomendada?",
+    "exampleTranslation": "How much is the recommended tip?"
+  },
+  {
+    "id": "restaurant-9",
+    "portuguese": "sem glúten",
+    "english": "gluten-free",
+    "example": "Tem opções sem glúten?",
+    "exampleTranslation": "Do you have gluten-free options?"
+  },
+  {
+    "id": "restaurant-10",
+    "portuguese": "o cardápio",
+    "english": "menu",
+    "example": "Posso ver o cardápio, por favor?",
+    "exampleTranslation": "Can I see the menu, please?"
+  },
+  {
+    "id": "restaurant-11",
+    "portuguese": "o prato do dia",
+    "english": "daily special",
+    "example": "Qual é o prato do dia hoje?",
+    "exampleTranslation": "What is today's special?"
+  },
+  {
+    "id": "restaurant-12",
+    "portuguese": "a reserva",
+    "english": "reservation",
+    "example": "Temos uma reserva no nome de Ana.",
+    "exampleTranslation": "We have a reservation under Ana's name."
+  },
+  {
+    "id": "restaurant-13",
+    "portuguese": "a água com gás",
+    "english": "sparkling water",
+    "example": "Prefere água com gás ou sem gás?",
+    "exampleTranslation": "Do you prefer sparkling or still water?"
+  },
+  {
+    "id": "restaurant-14",
+    "portuguese": "o couvert",
+    "english": "cover charge / bread service",
+    "example": "O couvert inclui pães e pastinhas.",
+    "exampleTranslation": "The cover charge includes bread and spreads."
+  },
+  {
+    "id": "restaurant-15",
+    "portuguese": "bem passado",
+    "english": "well-done",
+    "example": "Quero o bife bem passado.",
+    "exampleTranslation": "I want the steak well-done."
+  },
+  {
+    "id": "restaurant-16",
+    "portuguese": "ao ponto",
+    "english": "medium",
+    "example": "Pode deixar o hambúrguer ao ponto.",
+    "exampleTranslation": "Please make the burger medium."
+  },
+  {
+    "id": "restaurant-17",
+    "portuguese": "mal passado",
+    "english": "rare",
+    "example": "Ele gosta do filé mal passado.",
+    "exampleTranslation": "He likes the steak rare."
+  },
+  {
+    "id": "restaurant-18",
+    "portuguese": "a talher",
+    "english": "cutlery",
+    "example": "Faltam talheres na mesa.",
+    "exampleTranslation": "There is missing cutlery on the table."
+  },
+  {
+    "id": "restaurant-19",
+    "portuguese": "dividir a conta",
+    "english": "split the bill",
+    "example": "Podemos dividir a conta em três cartões?",
+    "exampleTranslation": "Can we split the bill on three cards?"
+  },
+  {
+    "id": "restaurant-20",
+    "portuguese": "a água da torneira",
+    "english": "tap water",
+    "example": "Aqui servem água da torneira?",
+    "exampleTranslation": "Do you serve tap water here?"
+  }
+]

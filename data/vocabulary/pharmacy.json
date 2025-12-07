@@ -1,0 +1,142 @@
+[
+  {
+    "id": "pharmacy-1",
+    "portuguese": "a receita",
+    "english": "prescription",
+    "example": "Você trouxe a receita do médico?",
+    "exampleTranslation": "Did you bring the doctor's prescription?"
+  },
+  {
+    "id": "pharmacy-2",
+    "portuguese": "o remédio",
+    "english": "medicine",
+    "example": "Este remédio é para gripe.",
+    "exampleTranslation": "This medicine is for the flu."
+  },
+  {
+    "id": "pharmacy-3",
+    "portuguese": "analgésico",
+    "english": "painkiller",
+    "example": "Preciso de um analgésico forte.",
+    "exampleTranslation": "I need a strong painkiller."
+  },
+  {
+    "id": "pharmacy-4",
+    "portuguese": "antibiótico",
+    "english": "antibiotic",
+    "example": "Ela está tomando antibiótico por sete dias.",
+    "exampleTranslation": "She is taking antibiotics for seven days."
+  },
+  {
+    "id": "pharmacy-5",
+    "portuguese": "a posologia",
+    "english": "dosage",
+    "example": "Qual é a posologia correta?",
+    "exampleTranslation": "What is the correct dosage?"
+  },
+  {
+    "id": "pharmacy-6",
+    "portuguese": "o comprimido",
+    "english": "pill",
+    "example": "Tome um comprimido a cada oito horas.",
+    "exampleTranslation": "Take one pill every eight hours."
+  },
+  {
+    "id": "pharmacy-7",
+    "portuguese": "a pomada",
+    "english": "ointment",
+    "example": "Passe esta pomada duas vezes ao dia.",
+    "exampleTranslation": "Apply this ointment twice a day."
+  },
+  {
+    "id": "pharmacy-8",
+    "portuguese": "a alergia",
+    "english": "allergy",
+    "example": "Tenho alergia a penicilina.",
+    "exampleTranslation": "I am allergic to penicillin."
+  },
+  {
+    "id": "pharmacy-9",
+    "portuguese": "o termômetro",
+    "english": "thermometer",
+    "example": "Você tem termômetro digital?",
+    "exampleTranslation": "Do you have a digital thermometer?"
+  },
+  {
+    "id": "pharmacy-10",
+    "portuguese": "sem açúcar",
+    "english": "sugar-free",
+    "example": "Tem xarope sem açúcar?",
+    "exampleTranslation": "Do you have sugar-free syrup?"
+  },
+  {
+    "id": "pharmacy-11",
+    "portuguese": "a seringa",
+    "english": "syringe",
+    "example": "Preciso de uma seringa descartável.",
+    "exampleTranslation": "I need a disposable syringe."
+  },
+  {
+    "id": "pharmacy-12",
+    "portuguese": "o curativo",
+    "english": "bandage",
+    "example": "Onde ficam os curativos adesivos?",
+    "exampleTranslation": "Where are the adhesive bandages?"
+  },
+  {
+    "id": "pharmacy-13",
+    "portuguese": "anti-inflamatório",
+    "english": "anti-inflammatory",
+    "example": "O médico indicou um anti-inflamatório.",
+    "exampleTranslation": "The doctor prescribed an anti-inflammatory."
+  },
+  {
+    "id": "pharmacy-14",
+    "portuguese": "o efeito colateral",
+    "english": "side effect",
+    "example": "Quais são os efeitos colaterais?",
+    "exampleTranslation": "What are the side effects?"
+  },
+  {
+    "id": "pharmacy-15",
+    "portuguese": "o inalador",
+    "english": "inhaler",
+    "example": "Meu filho precisa de um inalador novo.",
+    "exampleTranslation": "My son needs a new inhaler."
+  },
+  {
+    "id": "pharmacy-16",
+    "portuguese": "o xarope",
+    "english": "syrup",
+    "example": "Este xarope é para tosse seca.",
+    "exampleTranslation": "This syrup is for dry cough."
+  },
+  {
+    "id": "pharmacy-17",
+    "portuguese": "o colírio",
+    "english": "eye drops",
+    "example": "Coloque duas gotas de colírio por dia.",
+    "exampleTranslation": "Put two drops of eye drops per day."
+  },
+  {
+    "id": "pharmacy-18",
+    "portuguese": "genérico",
+    "english": "generic",
+    "example": "Prefere o remédio de marca ou o genérico?",
+    "exampleTranslation": "Do you prefer the brand-name or the generic medicine?"
+  },
+  {
+    "id": "pharmacy-19",
+    "portuguese": "a farmácia de plantão",
+    "english": "24-hour pharmacy",
+    "example": "A farmácia de plantão fica duas quadras daqui.",
+    "exampleTranslation": "The 24-hour pharmacy is two blocks from here."
+  },
+  {
+    "id": "pharmacy-20",
+    "portuguese": "a vacina",
+    "english": "vaccine",
+    "example": "Você já tomou a vacina da gripe este ano?",
+    "exampleTranslation": "Have you taken the flu vaccine this year?"
+  }
+]

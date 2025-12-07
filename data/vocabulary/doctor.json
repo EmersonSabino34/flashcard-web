@@ -1,0 +1,142 @@
+[
+  {
+    "id": "doctor-1",
+    "portuguese": "a consulta",
+    "english": "appointment",
+    "example": "Tenho uma consulta amanhã às nove.",
+    "exampleTranslation": "I have an appointment tomorrow at nine."
+  },
+  {
+    "id": "doctor-2",
+    "portuguese": "o prontuário",
+    "english": "medical record",
+    "example": "O enfermeiro atualizou o prontuário.",
+    "exampleTranslation": "The nurse updated the medical record."
+  },
+  {
+    "id": "doctor-3",
+    "portuguese": "o exame",
+    "english": "medical exam",
+    "example": "Preciso fazer um exame de sangue.",
+    "exampleTranslation": "I need to take a blood test."
+  },
+  {
+    "id": "doctor-4",
+    "portuguese": "a pressão arterial",
+    "english": "blood pressure",
+    "example": "Sua pressão arterial está alta.",
+    "exampleTranslation": "Your blood pressure is high."
+  },
+  {
+    "id": "doctor-5",
+    "portuguese": "o diagnóstico",
+    "english": "diagnosis",
+    "example": "O médico ainda não fechou o diagnóstico.",
+    "exampleTranslation": "The doctor has not reached a diagnosis yet."
+  },
+  {
+    "id": "doctor-6",
+    "portuguese": "o sintoma",
+    "english": "symptom",
+    "example": "Quais são os seus sintomas?",
+    "exampleTranslation": "What are your symptoms?"
+  },
+  {
+    "id": "doctor-7",
+    "portuguese": "a febre",
+    "english": "fever",
+    "example": "Estou com febre desde ontem.",
+    "exampleTranslation": "I have had a fever since yesterday."
+  },
+  {
+    "id": "doctor-8",
+    "portuguese": "a dor de cabeça",
+    "english": "headache",
+    "example": "Tenho dor de cabeça constante.",
+    "exampleTranslation": "I have a constant headache."
+  },
+  {
+    "id": "doctor-9",
+    "portuguese": "o atestado médico",
+    "english": "medical certificate",
+    "example": "Preciso de um atestado médico para o trabalho.",
+    "exampleTranslation": "I need a medical certificate for work."
+  },
+  {
+    "id": "doctor-10",
+    "portuguese": "o retorno",
+    "english": "follow-up",
+    "example": "Marque um retorno em duas semanas.",
+    "exampleTranslation": "Schedule a follow-up in two weeks."
+  },
+  {
+    "id": "doctor-11",
+    "portuguese": "o especialista",
+    "english": "specialist",
+    "example": "Ela vai consultar um especialista.",
+    "exampleTranslation": "She is going to see a specialist."
+  },
+  {
+    "id": "doctor-12",
+    "portuguese": "a anamnese",
+    "english": "medical history",
+    "example": "Vamos começar com a anamnese.",
+    "exampleTranslation": "Let's start with the medical history."
+  },
+  {
+    "id": "doctor-13",
+    "portuguese": "o convênio",
+    "english": "health insurance",
+    "example": "Qual convênio você usa?",
+    "exampleTranslation": "Which health insurance do you use?"
+  },
+  {
+    "id": "doctor-14",
+    "portuguese": "o remédio contínuo",
+    "english": "ongoing medication",
+    "example": "Você toma algum remédio contínuo?",
+    "exampleTranslation": "Do you take any ongoing medication?"
+  },
+  {
+    "id": "doctor-15",
+    "portuguese": "a vacinação",
+    "english": "vaccination",
+    "example": "Sua vacinação está em dia?",
+    "exampleTranslation": "Are your vaccinations up to date?"
+  },
+  {
+    "id": "doctor-16",
+    "portuguese": "o prontuário eletrônico",
+    "english": "electronic health record",
+    "example": "Os exames ficam no prontuário eletrônico.",
+    "exampleTranslation": "The tests are in the electronic health record."
+  },
+  {
+    "id": "doctor-17",
+    "portuguese": "a receita digital",
+    "english": "digital prescription",
+    "example": "Vou enviar a receita digital por e-mail.",
+    "exampleTranslation": "I will send the digital prescription by email."
+  },
+  {
+    "id": "doctor-18",
+    "portuguese": "os batimentos cardíacos",
+    "english": "heartbeat",
+    "example": "Os batimentos cardíacos estão regulares.",
+    "exampleTranslation": "The heartbeat is regular."
+  },
+  {
+    "id": "doctor-19",
+    "portuguese": "o raio-x",
+    "english": "x-ray",
+    "example": "Você precisa fazer um raio-x do braço.",
+    "exampleTranslation": "You need to take an x-ray of your arm."
+  },
+  {
+    "id": "doctor-20",
+    "portuguese": "a alta médica",
+    "english": "medical discharge",
+    "example": "O paciente recebeu alta médica hoje.",
+    "exampleTranslation": "The patient was discharged today."
+  }
+]

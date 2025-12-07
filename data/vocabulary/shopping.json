@@ -1,0 +1,142 @@
+[
+  {
+    "id": "shopping-1",
+    "portuguese": "a loja",
+    "english": "the store",
+    "example": "Vamos à loja depois da aula.",
+    "exampleTranslation": "Let's go to the store after class."
+  },
+  {
+    "id": "shopping-2",
+    "portuguese": "o caixa",
+    "english": "cashier",
+    "example": "O caixa foi muito simpático.",
+    "exampleTranslation": "The cashier was very friendly."
+  },
+  {
+    "id": "shopping-3",
+    "portuguese": "o recibo",
+    "english": "receipt",
+    "example": "Guarde o recibo para trocar se precisar.",
+    "exampleTranslation": "Keep the receipt in case you need to exchange it."
+  },
+  {
+    "id": "shopping-4",
+    "portuguese": "experimentar",
+    "english": "to try on",
+    "example": "Posso experimentar essa camisa?",
+    "exampleTranslation": "Can I try on this shirt?"
+  },
+  {
+    "id": "shopping-5",
+    "portuguese": "o desconto",
+    "english": "discount",
+    "example": "Tem desconto para estudantes?",
+    "exampleTranslation": "Is there a discount for students?"
+  },
+  {
+    "id": "shopping-6",
+    "portuguese": "a promoção",
+    "english": "sale",
+    "example": "A promoção termina amanhã.",
+    "exampleTranslation": "The sale ends tomorrow."
+  },
+  {
+    "id": "shopping-7",
+    "portuguese": "o provador",
+    "english": "fitting room",
+    "example": "O provador fica ao fundo à esquerda.",
+    "exampleTranslation": "The fitting room is at the back on the left."
+  },
+  {
+    "id": "shopping-8",
+    "portuguese": "o tamanho",
+    "english": "size",
+    "example": "Qual é o seu tamanho de sapato?",
+    "exampleTranslation": "What is your shoe size?"
+  },
+  {
+    "id": "shopping-9",
+    "portuguese": "a vitrine",
+    "english": "shop window",
+    "example": "A vitrine tem roupas de inverno.",
+    "exampleTranslation": "The shop window has winter clothes."
+  },
+  {
+    "id": "shopping-10",
+    "portuguese": "trocar",
+    "english": "to exchange",
+    "example": "Eu gostaria de trocar este vestido.",
+    "exampleTranslation": "I would like to exchange this dress."
+  },
+  {
+    "id": "shopping-11",
+    "portuguese": "a fila",
+    "english": "line / queue",
+    "example": "A fila está andando rápido hoje.",
+    "exampleTranslation": "The line is moving fast today."
+  },
+  {
+    "id": "shopping-12",
+    "portuguese": "a sacola",
+    "english": "shopping bag",
+    "example": "Precisa de sacola?",
+    "exampleTranslation": "Do you need a shopping bag?"
+  },
+  {
+    "id": "shopping-13",
+    "portuguese": "o troco",
+    "english": "change",
+    "example": "O troco está correto.",
+    "exampleTranslation": "The change is correct."
+  },
+  {
+    "id": "shopping-14",
+    "portuguese": "em estoque",
+    "english": "in stock",
+    "example": "Tem este tênis em estoque?",
+    "exampleTranslation": "Do you have this sneaker in stock?"
+  },
+  {
+    "id": "shopping-15",
+    "portuguese": "esgotado",
+    "english": "sold out",
+    "example": "O vestido azul está esgotado.",
+    "exampleTranslation": "The blue dress is sold out."
+  },
+  {
+    "id": "shopping-16",
+    "portuguese": "a etiqueta",
+    "english": "price tag",
+    "example": "A etiqueta mostra o preço correto.",
+    "exampleTranslation": "The price tag shows the correct price."
+  },
+  {
+    "id": "shopping-17",
+    "portuguese": "o cartão de crédito",
+    "english": "credit card",
+    "example": "Você aceita cartão de crédito?",
+    "exampleTranslation": "Do you accept credit card?"
+  },
+  {
+    "id": "shopping-18",
+    "portuguese": "parcelar",
+    "english": "to pay in installments",
+    "example": "Posso parcelar em três vezes?",
+    "exampleTranslation": "Can I pay in three installments?"
+  },
+  {
+    "id": "shopping-19",
+    "portuguese": "à vista",
+    "english": "paid in full",
+    "example": "Se pagar à vista tem desconto.",
+    "exampleTranslation": "If you pay in full there's a discount."
+  },
+  {
+    "id": "shopping-20",
+    "portuguese": "a garantia",
+    "english": "warranty",
+    "example": "Qual é a garantia deste produto?",
+    "exampleTranslation": "What is the warranty on this product?"
+  }
+]
