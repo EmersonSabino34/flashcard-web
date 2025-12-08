@@ -1,4 +1,4 @@
-# dependencies & builds
+2# dependencies & builds
 node_modules/
 /.next/
 /out/
